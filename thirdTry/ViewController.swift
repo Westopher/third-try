@@ -10,6 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var fingersTextField: UITextField!
+    
+    @IBAction func guess(_ sender: Any) {
+        
+        print ("tester")
+        
+    }
+    
+    
+    @IBOutlet var resultLabel: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
