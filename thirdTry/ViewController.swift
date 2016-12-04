@@ -14,7 +14,15 @@ class ViewController: UIViewController {
     
     @IBAction func guess(_ sender: Any) {
         
-        print ("tester")
+        let diceRoll = String(arc4random_uniform(6))
+        
+        if fingersTextField.text == diceRoll {
+            
+            resultLabel.text = "You guessed right!"
+            
+        } else {
+            resultLabel.text = "Wrong! It was " + diceRoll + "."
+        }
         
     }
     
