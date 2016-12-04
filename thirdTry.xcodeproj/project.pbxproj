@@ -12,6 +12,7 @@
 		3DE541D61DF4945C00CBC780 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DE541D41DF4945C00CBC780 /* Main.storyboard */; };
 		3DE541D81DF4945C00CBC780 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DE541D71DF4945C00CBC780 /* Assets.xcassets */; };
 		3DE541DB1DF4945C00CBC780 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DE541D91DF4945C00CBC780 /* LaunchScreen.storyboard */; };
+		3DE541E31DF499A900CBC780 /* Human-Hands-Front-Back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DE541E21DF499A900CBC780 /* Human-Hands-Front-Back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3DE541D71DF4945C00CBC780 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DE541DA1DF4945C00CBC780 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DE541DC1DF4945C00CBC780 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DE541E21DF499A900CBC780 /* Human-Hands-Front-Back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Human-Hands-Front-Back.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				3DE541D21DF4945C00CBC780 /* ViewController.swift */,
 				3DE541D41DF4945C00CBC780 /* Main.storyboard */,
 				3DE541D71DF4945C00CBC780 /* Assets.xcassets */,
+				3DE541E21DF499A900CBC780 /* Human-Hands-Front-Back.jpg */,
 				3DE541D91DF4945C00CBC780 /* LaunchScreen.storyboard */,
 				3DE541DC1DF4945C00CBC780 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DE541DB1DF4945C00CBC780 /* LaunchScreen.storyboard in Resources */,
+				3DE541E31DF499A900CBC780 /* Human-Hands-Front-Back.jpg in Resources */,
 				3DE541D81DF4945C00CBC780 /* Assets.xcassets in Resources */,
 				3DE541D61DF4945C00CBC780 /* Main.storyboard in Resources */,
 			);
